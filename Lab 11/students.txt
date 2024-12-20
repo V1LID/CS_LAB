@@ -1,0 +1,3 @@
+Polad 20 3.5
+Quandale 21 2.4
+Quandavius 22 0.4
